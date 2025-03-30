@@ -24,14 +24,14 @@ CSS STRUCTURE:
 --------------------------------------------------------------*/
 @font-face {
   font-family: 'CSPraJad';
-  src: url(../rice-straw-web/fonts/CSPraJad-v2.otf);
+  src: url(../fonts/CSPraJad-v2.otf);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CSPraJad';
-  src: url(../rice-straw-web/fonts/CSPraJad-Bold-v2.otf); /* Assuming this is the filename for the bold variant */
+  src: url(../fonts/CSPraJad-Bold-v2.otf); /* Assuming this is the filename for the bold variant */
   font-weight: bold;
   font-style: normal;
 }
