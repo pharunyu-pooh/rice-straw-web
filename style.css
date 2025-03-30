@@ -31,7 +31,7 @@ CSS STRUCTURE:
 
 @font-face {
   font-family: 'CSPraJad';
-  src: url(../fonts/CSPraJad-Bold-v2.otf); /* Assuming this is the filename for the bold variant */
+  src: url(../fonts/CSPraJad-bold-v2.otf); /* Assuming this is the filename for the bold variant */
   font-weight: bold;
   font-style: normal;
 }
